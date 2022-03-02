@@ -60,30 +60,6 @@ Initialize Git
 		these changes has to tracked or ignored by your git has to be said by the programmer.
 		
 	
+Added at the end heree online...............................
 
 
-
-
-	
-	
-	
-	
-
-
-
-
-
-			
-			
-			
-			
-			
-			
-			
-	
-	
-	
-	
-	
-	
-		
